@@ -1,4 +1,4 @@
-#Dockerfile for production build, web
+#Dockerfile for production build, web 
 FROM node:18-alpine
 
 # user the default user the container comes with
